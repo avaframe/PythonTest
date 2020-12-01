@@ -1,12 +1,12 @@
 API
 ===
-..
-   .. automodule:: myPyMod.myPyModule1
-      :members:
+Some words.
 
-.. automodule:: myPyMod.myPyModule1.Module1
-   :members:
+.. autosummary::
+   :toctree: _autosummary
+   :template: custom-module-template.rst
+   :recursive:
 
+   myPyModule1
+   myPyModule2
 
-.. automodule:: myPyMod.myPyModule2.myPyModule2
-   :members:

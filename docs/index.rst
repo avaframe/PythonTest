@@ -8,7 +8,6 @@ Welcome to PytestFSO's documentation!
 
    api
 
-
 Indices and tables
 ==================
 
