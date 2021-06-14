@@ -1,9 +1,9 @@
 # Python Module example
-import myMod.myModSub.myExSub as eX
+from myMod.myModSub import myExSub
 
 def myMain():
    print('in myMain')
-   eX.myMain()
+   myExSub.myMain()
 
 
 if __name__ == "__main__":
